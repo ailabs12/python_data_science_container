@@ -1,0 +1,9 @@
+version: '2'
+services:
+  web:
+    container_name: test
+    image: "test"
+    volumes:
+      - /home/bka2/python_data_science_container/python_data_science_container/notebooks:/notebooks
+    ports:
+      - "8888:8888"
