@@ -1,2 +1,3 @@
 # python_data_science_container
-Algorithm to distinguish dogs from cats
+
+Проект в рамках обучения для бинарной классификации кошек и собак
